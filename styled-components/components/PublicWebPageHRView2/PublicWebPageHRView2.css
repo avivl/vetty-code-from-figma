@@ -1,0 +1,9 @@
+.public-web-page-hr-view {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 5080px;
+  width: 375px;
+}
+

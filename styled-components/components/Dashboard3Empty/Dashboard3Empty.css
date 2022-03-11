@@ -1,0 +1,11 @@
+.dashboard-3-empty {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 943px;
+  overflow: hidden;
+  position: relative;
+  width: 1728px;
+}
+

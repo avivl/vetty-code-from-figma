@@ -1,0 +1,10 @@
+.log-in {
+  align-items: center;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  min-height: 960px;
+  padding: 96px 0;
+  width: 1728px;
+}
+

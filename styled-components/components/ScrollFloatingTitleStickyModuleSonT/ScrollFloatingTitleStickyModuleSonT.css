@@ -1,0 +1,9 @@
+.scroll-floating-title-sticky-module-son-the-side {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 943px;
+  overflow: hidden;
+  width: 1728px;
+}
+

@@ -1,0 +1,11 @@
+.inputs-states {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 1942px;
+  padding: 81px 0;
+  position: relative;
+  width: 1925px;
+}
+

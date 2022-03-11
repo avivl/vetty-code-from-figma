@@ -1,0 +1,9 @@
+.public-web-page-thank-you {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 950px;
+  overflow: hidden;
+  width: 1728px;
+}
+
