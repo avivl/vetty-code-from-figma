@@ -1,0 +1,23 @@
+.textarea-input-field-8 {
+  align-items: center;
+  display: flex;
+  height: 162px;
+  justify-content: center;
+  margin-top: 30px;
+  position: relative;
+  width: 904px;
+}
+
+.textarea-input-field-8.textarea-input-field-9,
+.textarea-input-field-8.textarea-input-field-13 {
+  margin-left: 2px;
+}
+
+.textarea-input-field-8.textarea-input-field-10 {
+  margin-top: unset;
+}
+
+.textarea-input-field-8.textarea-input-field-11 {
+  margin-top: 38px;
+}
+

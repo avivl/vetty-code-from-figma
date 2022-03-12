@@ -1,0 +1,9 @@
+.log-in {
+  background-color: var(--white-lilac);
+  display: flex;
+  height: 100vh;
+  min-height: 960px;
+  min-width: 1728px;
+  width: 100%;
+}
+

@@ -1,0 +1,42 @@
+.table-cell-22 {
+  display: flex;
+  height: 72px;
+  width: 97px;
+}
+
+.text-151 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 24px;
+  margin-top: 26px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.table-cell-22.table-cell-23 {
+  width: 137px;
+}
+
+.table-cell-22.table-cell-23 .text-151,
+.table-cell-22.table-cell-24 .text-151 {
+  width: 75px;
+}
+
+.table-cell-22.table-cell-24 {
+  width: 123px;
+}
+
+.table-cell-22.table-cell-25,
+.table-cell-22.table-cell-26 {
+  width: 161px;
+}
+
+.table-cell-22.table-cell-25 .text-151 {
+  width: 53px;
+}
+
+.table-cell-22.table-cell-26 .text-151 {
+  width: 92px;
+}
+

@@ -1,0 +1,15 @@
+.dropdown {
+  display: flex;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.dropdown.dropdown-1,
+.dropdown.dropdown-4,
+.dropdown.dropdown-5,
+.dropdown.dropdown-6,
+.dropdown.dropdown-7 {
+  margin-left: 56px;
+}
+

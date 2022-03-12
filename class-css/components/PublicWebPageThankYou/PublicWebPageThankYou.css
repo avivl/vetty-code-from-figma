@@ -1,0 +1,158 @@
+.public-web-page-thank-you {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 950px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.overlap-group1-1 {
+  height: 2825px;
+  margin-left: -123px;
+  position: relative;
+  width: 1851px;
+}
+
+.header-navigation-7 {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 73px;
+  left: 123px;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.container-16 {
+  display: flex;
+  height: 72px;
+  margin-left: 183.5px;
+  position: relative;
+  width: 1361px;
+}
+
+.divider-24 {
+  height: 1px;
+  width: 1728px;
+}
+
+.container-17 {
+  display: flex;
+  height: 91px;
+  left: 307px;
+  position: absolute;
+  top: 83px;
+  width: 1361px;
+}
+
+.content-87 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 32px;
+  min-height: 91px;
+  position: relative;
+  width: 1297px;
+}
+
+.divider-25 {
+  background-color: var(--gallery);
+  height: 1px;
+  margin-top: 10px;
+  width: 1297px;
+}
+
+.frame-14069-7 {
+  display: flex;
+  flex-direction: column;
+  height: 2611px;
+  left: 339px;
+  position: absolute;
+  top: 214px;
+  width: 906px;
+}
+
+.group-75-2 {
+  height: 367px;
+  left: 0;
+  position: absolute;
+  top: 211px;
+  width: 135px;
+}
+
+.modal {
+  -webkit-backdrop-filter: blur(16px) brightness(100%);
+  backdrop-filter: blur(16px) brightness(100%);
+  background-color: var(--oxford-blue-2);
+  display: flex;
+  height: 950px;
+  left: 123px;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.modal-1 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 8px 8px #1018280a , 0px 20px 24px #1018281a;
+  display: flex;
+  flex-direction: column;
+  height: 302px;
+  margin-left: 652.5px;
+  margin-top: 324px;
+  overflow: hidden;
+  position: relative;
+  width: 423px;
+}
+
+.content-88 {
+  display: flex;
+  flex-direction: column;
+  height: 178px;
+  margin-left: 24px;
+  margin-top: 24px;
+  width: 375px;
+}
+
+.element {
+  height: 84.5px;
+  margin-left: 152.5px;
+  margin-top: -1.2px;
+  width: 70px;
+}
+
+.text-and-supporting-text-23 {
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-top: 18.8px;
+}
+
+.text-123 {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-align: center;
+  white-space: nowrap;
+  width: 375px;
+}
+
+.supporting-text-10 {
+  height: 40px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 8px;
+  text-align: center;
+  width: 375px;
+}
+
+.graphics-2 {
+  height: 222px;
+  margin-left: 24px;
+  margin-top: 296.77px;
+  width: 58px;
+}
+

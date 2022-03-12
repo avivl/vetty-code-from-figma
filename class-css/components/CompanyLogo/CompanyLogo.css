@@ -1,0 +1,53 @@
+.company-logo,
+.company-logo-1,
+.company-logo-2,
+.company-logo-3,
+.company-logo-4,
+.company-logo-5,
+.company-logo-6,
+.company-logo-7,
+.company-logo-8 {
+  align-items: flex-start;
+  display: flex;
+  height: 33.13px;
+  min-width: 147px;
+  position: relative;
+}
+
+.charming-and-comfort,
+.charming-and-comfort-2,
+.charming-and-comfort-4,
+.charming-and-comfort-6,
+.charming-and-comfort-8,
+.charming-and-comfort-10,
+.charming-and-comfort-12,
+.charming-and-comfort-14,
+.charming-and-comfort-16 {
+  height: 33px;
+  letter-spacing: 0;
+  line-height: 33.1px;
+  margin-left: 8px;
+  margin-top: -0.44px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.charming-and-comfort-1,
+.charming-and-comfort-3,
+.charming-and-comfort-5,
+.charming-and-comfort-7,
+.charming-and-comfort-9,
+.charming-and-comfort-11,
+.charming-and-comfort-13,
+.charming-and-comfort-15,
+.charming-and-comfort-17 {
+  align-self: center;
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 33.1px;
+  margin-left: 5px;
+  margin-top: 5.0px;
+  white-space: nowrap;
+  width: 32px;
+}
+

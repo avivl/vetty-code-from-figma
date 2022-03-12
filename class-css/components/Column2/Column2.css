@@ -1,0 +1,15 @@
+.column-19,
+.column-20 {
+  display: flex;
+  flex-direction: column;
+  height: 556px;
+  position: relative;
+  width: 117px;
+}
+
+.divider-40,
+.divider-41 {
+  background-color: var(--gallery);
+  height: 1px;
+}
+

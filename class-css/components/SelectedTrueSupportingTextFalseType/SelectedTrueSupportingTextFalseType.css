@@ -1,0 +1,38 @@
+.input-45 {
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  height: 44px;
+  margin-top: 6px;
+  width: 434px;
+}
+
+.content-82 {
+  display: flex;
+  height: 24px;
+  margin-left: 14px;
+  margin-top: 10px;
+  position: relative;
+  width: 378px;
+}
+
+.chevron-down-11 {
+  height: 20px;
+  margin-left: 8px;
+  margin-top: 12px;
+  width: 20px;
+}
+
+.input-45.input-44 {
+  box-shadow: 0px 0px 0px #f4ebff , 0px 1px 2px #1018280d;
+  overflow: hidden;
+}
+
+.input-45.input-dropdown-menu-item-1 {
+  background-color: var(--white-lilac);
+  border-radius: unset;
+  box-shadow: unset;
+  margin-top: 4px;
+}
+

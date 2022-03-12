@@ -1,0 +1,33 @@
+.input-field {
+  display: flex;
+  height: 70px;
+  justify-content: center;
+  position: relative;
+  width: 434px;
+}
+
+.input-field.input-field-1,
+.input-field.input-field-13 {
+  margin-left: 24px;
+}
+
+.input-field.input-field-2,
+.input-field.input-field-8 {
+  width: 346px;
+}
+
+.input-field.input-field-3,
+.input-field.input-field-9 {
+  margin-top: 24px;
+  width: 346px;
+}
+
+.input-field.input-field-5,
+.input-field.input-field-11 {
+  margin-left: 36px;
+}
+
+.input-field.input-field-7 {
+  margin-top: 14px;
+}
+

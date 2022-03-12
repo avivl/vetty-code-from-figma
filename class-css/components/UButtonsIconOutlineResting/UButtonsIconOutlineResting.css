@@ -1,0 +1,28 @@
+.u-buttons-icon-outline-resting-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  min-width: 40px;
+}
+
+.overlap-group-5 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  height: 42px;
+  margin-top: -1px;
+  min-width: 42px;
+  padding: 11px;
+}
+
+.users {
+  height: 18px;
+  width: 18px;
+}
+
+.u-buttons-icon-outline-resting-6.u-buttons-icon-outline-resting-4,
+.u-buttons-icon-outline-resting-6.u-buttons-icon-outline-resting-5 {
+  margin-left: 8px;
+}
+

@@ -1,0 +1,29 @@
+.page-header-3,
+.content-104 {
+  display: flex;
+  width: 1216px;
+}
+
+.text-and-supporting-text-30 {
+  display: flex;
+  flex-direction: column;
+  height: 66px;
+  position: relative;
+  width: 1037px;
+}
+
+.text-138 {
+  height: 38px;
+  letter-spacing: 0;
+  line-height: 38px;
+  white-space: nowrap;
+}
+
+.actions-12 {
+  display: flex;
+  height: 40px;
+  margin-left: 16px;
+  position: relative;
+  width: 163px;
+}
+

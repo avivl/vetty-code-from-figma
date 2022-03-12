@@ -1,0 +1,53 @@
+.button-base-13 {
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 173px;
+}
+
+.plus {
+  height: 20px;
+  margin-left: 16px;
+  margin-top: 10px;
+  width: 20px;
+}
+
+.text-103 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 8px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.button-base-13.button-base-14,
+.button-base-13.button-base-16,
+.button-base-13.button-base-18,
+.button-base-13.button-base-20 {
+  width: 201px;
+}
+
+.button-base-13.button-base-14 .text-103,
+.button-base-13.button-base-16 .text-103,
+.button-base-13.button-base-18 .text-103,
+.button-base-13.button-base-20 .text-103 {
+  width: 141px;
+}
+
+.button-base-13.button-base-15,
+.button-base-13.button-base-17,
+.button-base-13.button-base-19 {
+  width: 168px;
+}
+
+.button-base-13.button-base-15 .text-103,
+.button-base-13.button-base-17 .text-103,
+.button-base-13.button-base-19 .text-103 {
+  width: 108px;
+}
+

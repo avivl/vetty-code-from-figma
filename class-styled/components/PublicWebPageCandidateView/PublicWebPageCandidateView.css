@@ -1,0 +1,10 @@
+.public-web-page-candidate-view-1 {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 4759px;
+  min-width: 375px;
+  width: 100%;
+}
+

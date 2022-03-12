@@ -1,0 +1,24 @@
+.button-base-35 {
+  display: flex;
+  flex: 1;
+  width: 113px;
+}
+
+.text-130 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.button-base-35.button-base-36,
+.button-base-35.button-base-36 .text-130 {
+  width: 51px;
+}
+
+.button-base-35.button-base-37,
+.button-base-35.button-base-37 .text-130 {
+  width: 101px;
+}
+

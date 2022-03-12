@@ -1,0 +1,37 @@
+.badge-base {
+  background-color: var(--magnolia);
+  border-radius: 16px;
+  display: flex;
+  flex: 1;
+  width: 23px;
+}
+
+.text-141 {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 7px;
+}
+
+.badge-base.badge-base-1 {
+  width: 24px;
+}
+
+.badge-base.badge-base-1 .text-141 {
+  width: 8px;
+}
+
+.badge-base.badge-base-3,
+.badge-base.badge-base-5 {
+  width: 47px;
+}
+
+.badge-base.badge-base-3 .text-141,
+.badge-base.badge-base-5 .text-141 {
+  width: 31px;
+}
+

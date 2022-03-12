@@ -1,0 +1,11 @@
+.dropdown-menu {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 105px;
+  min-width: 240px;
+  position: relative;
+  width: 100%;
+}
+

@@ -1,0 +1,10 @@
+.desktop {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 950px;
+  min-width: 1728px;
+  width: 100%;
+}
+

@@ -1,0 +1,32 @@
+.textarea-input-field-base-2-1 {
+  display: flex;
+  width: 904px;
+}
+
+.input-with-label-24 {
+  display: flex;
+  flex-direction: column;
+  height: 162px;
+  position: relative;
+  width: 904px;
+}
+
+.label-26 {
+  height: 14.29px;
+  margin-left: 1px;
+  margin-top: 2.8px;
+  width: 557.43px;
+}
+
+.textarea-input-field-base-2-1.textarea-input-field-base-2 .label-26 {
+  width: 301.24px;
+}
+
+.textarea-input-field-base-2-1.textarea-input-field-base-3-1 .label-26 {
+  width: 557.43px;
+}
+
+.textarea-input-field-base-2-1.textarea-input-field-base-3 .label-26 {
+  width: 301.24px;
+}
+

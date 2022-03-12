@@ -1,0 +1,27 @@
+.badge-base-7 {
+  background-color: var(--alice-blue);
+  border-radius: 16px;
+  display: flex;
+  flex: 1;
+  width: 100px;
+}
+
+.text-174 {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.badge-base-7.badge-base-8 {
+  width: 53px;
+}
+
+.badge-base-7.badge-base-8 .text-174 {
+  width: 37px;
+}
+

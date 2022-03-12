@@ -1,0 +1,12 @@
+.dashboard-3-empty {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 943px;
+  min-width: 1728px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+

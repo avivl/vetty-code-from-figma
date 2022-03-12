@@ -1,0 +1,101 @@
+.desktop {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 950px;
+  min-width: 1728px;
+  width: 100%;
+}
+
+.header-navigation-2 {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 73px;
+  width: 1728px;
+}
+
+.container-5 {
+  display: flex;
+  height: 72px;
+  justify-content: space-between;
+  margin-left: 224px;
+  position: relative;
+  width: 1280px;
+}
+
+.content-43 {
+  display: flex;
+  margin-left: 32px;
+  margin-top: 16px;
+  position: relative;
+  width: 263px;
+}
+
+.navigation-4 {
+  display: flex;
+  height: 40px;
+  margin-left: 16px;
+  position: relative;
+  width: 100px;
+}
+
+.divider-13 {
+  height: 1px;
+  width: 1728px;
+}
+
+.main {
+  background-color: var(--white);
+  display: flex;
+  height: 877px;
+  width: 1728px;
+}
+
+.section-23 {
+  display: flex;
+  margin-top: 48px;
+  width: 1728px;
+}
+
+.container-6 {
+  display: flex;
+  margin-left: 224px;
+  width: 1280px;
+}
+
+.sections {
+  display: flex;
+  flex-direction: column;
+  height: 733px;
+  margin-left: 32px;
+  width: 1216px;
+}
+
+.header-section {
+  display: flex;
+  height: 82px;
+  position: relative;
+  width: 1216px;
+}
+
+.section-24 {
+  display: flex;
+  margin-top: 24px;
+  width: 1216px;
+}
+
+.section-25 {
+  display: flex;
+  width: 1216px;
+}
+
+.container-7 {
+  display: flex;
+  flex-direction: column;
+  height: 627px;
+  position: relative;
+  width: 1216px;
+}
+

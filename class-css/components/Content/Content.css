@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.content.content-1 {
+  align-self: center;
+  margin-right: 32px;
+}
+

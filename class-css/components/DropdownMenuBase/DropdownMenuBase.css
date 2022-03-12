@@ -1,0 +1,8 @@
+.dropdown-menu-base {
+  background-color: var(--white);
+  display: flex;
+  height: 40px;
+  position: relative;
+  width: 240px;
+}
+

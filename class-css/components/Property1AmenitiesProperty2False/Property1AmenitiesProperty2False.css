@@ -1,0 +1,58 @@
+.select-12 {
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  height: 37px;
+  width: 79px;
+}
+
+.amenities {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 16px;
+  margin-top: 8px;
+  opacity: 0.7;
+  text-align: center;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.select-12.select-1,
+.select-12.select-4,
+.select-12.select-7,
+.select-12.select-10 {
+  margin-left: 16px;
+}
+
+.select-12.select-2,
+.select-12.select-2-1,
+.select-12.select-2-2,
+.select-12.select-5,
+.select-12.select-5-1,
+.select-12.select-5-2,
+.select-12.select-8,
+.select-12.select-8-1,
+.select-12.select-8-2,
+.select-12.select-11,
+.select-12.select-11-1,
+.select-12.select-11-2 {
+  margin-left: 16px;
+  width: 141px;
+}
+
+.select-12.select-2-1 .amenities,
+.select-12.select-5-1 .amenities,
+.select-12.select-8-1 .amenities,
+.select-12.select-11-1 .amenities,
+.select-12.select-2-2 .amenities,
+.select-12.select-2 .amenities,
+.select-12.select-5-2 .amenities,
+.select-12.select-5 .amenities,
+.select-12.select-8-2 .amenities,
+.select-12.select-8 .amenities,
+.select-12.select-11-2 .amenities,
+.select-12.select-11 .amenities {
+  width: 109px;
+}
+

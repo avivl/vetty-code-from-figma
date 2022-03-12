@@ -1,0 +1,40 @@
+.text-and-supporting-text-6 {
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  width: 264px;
+}
+
+.text-95 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.supporting-text-5 {
+  height: 40px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 8px;
+}
+
+.text-and-supporting-text-6.text-and-supporting-text-7,
+.text-and-supporting-text-6.text-and-supporting-text-9,
+.text-and-supporting-text-6.text-and-supporting-text-11,
+.text-and-supporting-text-6.text-and-supporting-text-13,
+.text-and-supporting-text-6.text-and-supporting-text-15,
+.text-and-supporting-text-6.text-and-supporting-text-17 {
+  height: 52px;
+}
+
+.text-and-supporting-text-6.text-and-supporting-text-7 .supporting-text-5,
+.text-and-supporting-text-6.text-and-supporting-text-9 .supporting-text-5,
+.text-and-supporting-text-6.text-and-supporting-text-11 .supporting-text-5,
+.text-and-supporting-text-6.text-and-supporting-text-13 .supporting-text-5,
+.text-and-supporting-text-6.text-and-supporting-text-15 .supporting-text-5,
+.text-and-supporting-text-6.text-and-supporting-text-17 .supporting-text-5 {
+  height: 20px;
+  white-space: nowrap;
+}
+

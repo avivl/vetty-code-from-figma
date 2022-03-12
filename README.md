@@ -1,1 +1,0 @@
-# vetty-code-from-figma

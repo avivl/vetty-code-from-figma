@@ -1,0 +1,16 @@
+.input-field-10 {
+  display: flex;
+  height: 70px;
+  justify-content: center;
+  margin-top: 24px;
+  position: relative;
+  width: 346px;
+}
+
+.input-field-10.input-field-12,
+.input-field-10.input-field-15 {
+  margin-left: 36px;
+  margin-top: unset;
+  width: 161px;
+}
+

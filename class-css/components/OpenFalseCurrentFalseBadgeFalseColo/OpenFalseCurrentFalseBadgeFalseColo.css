@@ -1,0 +1,9 @@
+.nav-item-dropdown-base {
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  margin-left: 8px;
+  position: relative;
+  width: 296px;
+}
+

@@ -1,0 +1,36 @@
+.button-base-38 {
+  background-color: var(--royal-blue);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 360px;
+}
+
+.text-131 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 154px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.button-base-38.button-base-39 .text-131 {
+  margin-left: 120px;
+  width: 120px;
+}
+
+.button-base-38.button-base-40 .text-131,
+.button-base-38.button-base-42 .text-131 {
+  margin-left: 118.5px;
+  width: 123px;
+}
+
+.button-base-38.button-base-41 .text-131 {
+  margin-left: 145px;
+  width: 70px;
+}
+

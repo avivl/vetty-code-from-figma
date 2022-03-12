@@ -1,0 +1,20 @@
+.button-base-43 {
+  background-color: var(--royal-blue);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 163px;
+}
+
+.text-139 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 16px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 131px;
+}
+

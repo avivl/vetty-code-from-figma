@@ -1,0 +1,53 @@
+.frame-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--royal-blue);
+  border-radius: 16px;
+  display: flex;
+  height: 32px;
+  margin-bottom: 0.13px;
+  margin-left: -1px;
+  overflow: hidden;
+  padding: 3.6px 6px;
+  width: 32px;
+}
+
+.overlap-group {
+  height: 23px;
+  position: relative;
+  width: 20px;
+}
+
+.vector-7 {
+  height: 5px;
+  left: 3px;
+  position: absolute;
+  top: 18px;
+  width: 14px;
+}
+
+.x5d7f96dfdf28141cd047f1675418350c-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.frame-3.frame-3-5 {
+  padding: 3.7px 5.0px;
+}
+
+.frame-3.frame-3-5 .overlap-group {
+  height: 22px;
+  margin-left: 2px;
+}
+
+.frame-3.frame-3-5 .vector-7 {
+  left: 2px;
+}
+
+.frame-3.frame-3-6 {
+  padding: 3.3px 6px;
+}
+

@@ -1,0 +1,9 @@
+.dashboard-2-drawer {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 943px;
+  overflow: hidden;
+  width: 1728px;
+}
+

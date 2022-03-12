@@ -1,0 +1,13 @@
+.input-field-17 {
+  display: flex;
+  height: 96px;
+  justify-content: center;
+  margin-top: 20px;
+  position: relative;
+  width: 360px;
+}
+
+.input-field-17.input-field-19 {
+  margin-top: unset;
+}
+

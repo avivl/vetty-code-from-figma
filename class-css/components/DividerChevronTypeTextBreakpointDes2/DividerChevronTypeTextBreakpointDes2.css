@@ -1,0 +1,19 @@
+.breadcrumbs-1,
+.breadcrumbs-2,
+.breadcrumbs-3 {
+  border-radius: 6px;
+  display: flex;
+  height: 20px;
+  position: relative;
+  width: 610px;
+}
+
+.chevron-right-3,
+.chevron-right-4,
+.chevron-right-5 {
+  height: 16px;
+  margin-left: 12.0px;
+  margin-top: 2px;
+  width: 16px;
+}
+

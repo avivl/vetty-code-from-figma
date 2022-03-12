@@ -1,0 +1,23 @@
+.dropdown-list-item {
+  display: flex;
+  height: 40px;
+  width: 240px;
+}
+
+.log-out {
+  height: 16px;
+  margin-left: 16px;
+  margin-top: 12px;
+  width: 16px;
+}
+
+.text-9 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 12px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 51px;
+}
+

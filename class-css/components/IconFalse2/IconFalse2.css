@@ -1,0 +1,21 @@
+.badge-base-4,
+.badge-base-6 {
+  background-color: var(--chardon);
+  border-radius: 16px;
+  display: flex;
+  flex: 1;
+  width: 79px;
+}
+
+.text-169,
+.text-170 {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 63px;
+}
+

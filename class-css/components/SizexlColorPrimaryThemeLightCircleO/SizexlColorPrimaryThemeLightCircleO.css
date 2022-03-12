@@ -1,0 +1,21 @@
+.featured-icon,
+.featured-icon-1,
+.featured-icon-2 {
+  background-color: var(--royal-blue-2);
+  border-radius: 28px;
+  display: flex;
+  height: 76.0px;
+  margin-left: 147px;
+  margin-top: -5px;
+  width: 76.0px;
+}
+
+.mail,
+.key,
+.key-1 {
+  height: 28px;
+  margin-left: 14px;
+  margin-top: 14px;
+  width: 28px;
+}
+

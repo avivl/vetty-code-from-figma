@@ -1,0 +1,33 @@
+.avatar,
+.avatar-1,
+.avatar-2,
+.avatar-3,
+.avatar-4,
+.avatar-5,
+.avatar-6,
+.avatar-7 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  border-radius: 200px;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  width: 40px;
+}
+
+.text-1,
+.text-2,
+.text-3,
+.text-4,
+.text-5,
+.text-6,
+.text-7,
+.text-8 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 40px;
+}
+

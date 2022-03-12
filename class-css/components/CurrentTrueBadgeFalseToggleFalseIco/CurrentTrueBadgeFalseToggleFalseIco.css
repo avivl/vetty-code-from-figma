@@ -1,0 +1,33 @@
+.nav-item-base-2 {
+  background-color: var(--magnolia-2);
+  border-radius: 6px;
+  display: flex;
+  height: 40px;
+  overflow: hidden;
+  width: 100px;
+}
+
+.content-49 {
+  display: flex;
+  margin-left: 12px;
+  margin-top: 8px;
+  width: 76px;
+}
+
+.text-101 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.nav-item-base-2.nav-item-base-3 {
+  width: 108px;
+}
+
+.nav-item-base-2.nav-item-base-3 .content-49,
+.nav-item-base-2.nav-item-base-3 .text-101 {
+  width: 84px;
+}
+

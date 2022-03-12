@@ -1,0 +1,22 @@
+.button-base,
+.button-base-1 {
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 142px;
+}
+
+.text-18,
+.text-20 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 14px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 114px;
+}
+

@@ -1,0 +1,11 @@
+.table-header-cell-30 {
+  background-color: var(--white);
+  height: 44px;
+  width: 72px;
+}
+
+.table-header-cell-30.divider-32 {
+  background-color: var(--gallery);
+  height: 1px;
+}
+

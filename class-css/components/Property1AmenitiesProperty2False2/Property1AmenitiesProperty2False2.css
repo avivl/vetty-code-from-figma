@@ -1,0 +1,44 @@
+.select-13-1 {
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  height: 34px;
+  width: 72px;
+}
+
+.amenities-1 {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 16px;
+  margin-top: 8px;
+  opacity: 0.7;
+  text-align: center;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.select-13-1.select-14,
+.select-13-1.select-17 {
+  margin-left: 16px;
+}
+
+.select-13-1.select-15,
+.select-13-1.select-15-1,
+.select-13-1.select-15-2,
+.select-13-1.select-18,
+.select-13-1.select-18-1,
+.select-13-1.select-18-2 {
+  margin-left: 16px;
+  width: 126px;
+}
+
+.select-13-1.select-15-1 .amenities-1,
+.select-13-1.select-18-1 .amenities-1,
+.select-13-1.select-15-2 .amenities-1,
+.select-13-1.select-15 .amenities-1,
+.select-13-1.select-18-2 .amenities-1,
+.select-13-1.select-18 .amenities-1 {
+  width: 94px;
+}
+

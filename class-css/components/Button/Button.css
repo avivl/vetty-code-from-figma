@@ -1,0 +1,13 @@
+.button {
+  border-radius: 8px;
+  display: flex;
+  height: 40px;
+  margin-left: 16px;
+  position: relative;
+  width: 142px;
+}
+
+.button.button-1 {
+  margin-left: -1px;
+}
+

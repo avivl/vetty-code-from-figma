@@ -1,0 +1,25 @@
+.table-cell-27-1 {
+  display: flex;
+  height: 72px;
+  position: relative;
+  width: 165px;
+}
+
+.text-152 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 12px;
+  margin-top: 26px;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.table-cell-27-1.table-cell-27-2 .text-152 {
+  width: 64px;
+}
+
+.table-cell-27-1.table-cell-27 .text-152 {
+  width: 54px;
+}
+

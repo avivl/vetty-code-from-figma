@@ -1,0 +1,10 @@
+.input-field-4,
+.input-field-6 {
+  display: flex;
+  height: 70px;
+  justify-content: center;
+  margin-left: 24px;
+  position: relative;
+  width: 176px;
+}
+

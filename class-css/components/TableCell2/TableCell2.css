@@ -1,0 +1,35 @@
+.table-cell-32-1 {
+  display: flex;
+  height: 72px;
+  position: relative;
+  width: 177px;
+}
+
+.text-167 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 12px;
+  margin-top: 26px;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.table-cell-32-1.table-cell-32-2 .text-167,
+.table-cell-32-1.table-cell-33-2 .text-167 {
+  width: 64px;
+}
+
+.table-cell-32-1.table-cell-32 .text-167,
+.table-cell-32-1.table-cell-33 .text-167 {
+  width: 54px;
+}
+
+.table-cell-32-1.table-cell-34 {
+  background-color: var(--white-lilac);
+  display: flex;
+  height: 72px;
+  position: relative;
+  width: 177px;
+}
+

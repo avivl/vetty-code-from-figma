@@ -1,0 +1,42 @@
+.breadcrumb-button-base {
+  display: flex;
+  height: 20px;
+  width: 66px;
+}
+
+.text-17 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.breadcrumb-button-base.breadcrumb-button-base-1 {
+  margin-left: 12.0px;
+  width: 77px;
+}
+
+.breadcrumb-button-base.breadcrumb-button-base-1 .text-17 {
+  width: 77px;
+}
+
+.breadcrumb-button-base.breadcrumb-button-base-3,
+.breadcrumb-button-base.breadcrumb-button-base-5,
+.breadcrumb-button-base.breadcrumb-button-base-8 {
+  margin-left: 12.0px;
+  width: 387px;
+}
+
+.breadcrumb-button-base.breadcrumb-button-base-3 .text-17,
+.breadcrumb-button-base.breadcrumb-button-base-5 .text-17,
+.breadcrumb-button-base.breadcrumb-button-base-8 .text-17,
+.breadcrumb-button-base.breadcrumb-button-base-6 .text-17 {
+  width: 387px;
+}
+
+.breadcrumb-button-base.breadcrumb-button-base-6 {
+  margin-top: 24px;
+  width: 387px;
+}
+

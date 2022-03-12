@@ -1,0 +1,17 @@
+.button-32 {
+  border-radius: 8px;
+  display: flex;
+  height: 44px;
+  position: relative;
+  width: 360px;
+}
+
+.button-32.button-34,
+.button-32.button-36 {
+  margin-top: 24px;
+}
+
+.button-32.button-35 {
+  margin-top: 32px;
+}
+

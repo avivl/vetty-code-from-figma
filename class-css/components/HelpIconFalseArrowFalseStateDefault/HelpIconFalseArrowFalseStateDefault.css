@@ -1,0 +1,106 @@
+.table-header {
+  display: flex;
+  margin-left: 24px;
+  margin-top: 13px;
+  width: 57px;
+}
+
+.text-142 {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.table-header.table-header-1,
+.table-header.table-header-1 .text-142 {
+  width: 62px;
+}
+
+.table-header.table-header-2,
+.table-header.table-header-2 .text-142 {
+  width: 104px;
+}
+
+.table-header.table-header-3,
+.table-header.table-header-3 .text-142,
+.table-header.table-header-10,
+.table-header.table-header-10 .text-142,
+.table-header.table-header-18,
+.table-header.table-header-18 .text-142,
+.table-header.table-header-26,
+.table-header.table-header-26 .text-142 {
+  width: 47px;
+}
+
+.table-header.table-header-4,
+.table-header.table-header-4 .text-142,
+.table-header.table-header-13,
+.table-header.table-header-13 .text-142,
+.table-header.table-header-21,
+.table-header.table-header-21 .text-142,
+.table-header.table-header-29,
+.table-header.table-header-29 .text-142 {
+  width: 55px;
+}
+
+.table-header.table-header-5,
+.table-header.table-header-5 .text-142,
+.table-header.table-header-7 .text-142,
+.table-header.table-header-15 .text-142,
+.table-header.table-header-23 .text-142 {
+  width: 85px;
+}
+
+.table-header.table-header-7,
+.table-header.table-header-15,
+.table-header.table-header-23 {
+  margin-left: 16px;
+  width: 85px;
+}
+
+.table-header.table-header-8,
+.table-header.table-header-8 .text-142,
+.table-header.table-header-16,
+.table-header.table-header-16 .text-142,
+.table-header.table-header-24,
+.table-header.table-header-24 .text-142 {
+  width: 87px;
+}
+
+.table-header.table-header-9,
+.table-header.table-header-9 .text-142,
+.table-header.table-header-17,
+.table-header.table-header-17 .text-142,
+.table-header.table-header-25,
+.table-header.table-header-25 .text-142 {
+  width: 120px;
+}
+
+.table-header.table-header-11,
+.table-header.table-header-19,
+.table-header.table-header-27 {
+  margin-left: 15.5px;
+  width: 118px;
+}
+
+.table-header.table-header-11 .text-142,
+.table-header.table-header-19 .text-142,
+.table-header.table-header-27 .text-142 {
+  width: 118px;
+}
+
+.table-header.table-header-12,
+.table-header.table-header-20,
+.table-header.table-header-28 {
+  margin-left: 40px;
+  width: 38px;
+}
+
+.table-header.table-header-12 .text-142,
+.table-header.table-header-20 .text-142,
+.table-header.table-header-28 .text-142 {
+  width: 38px;
+}
+

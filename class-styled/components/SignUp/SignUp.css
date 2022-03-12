@@ -1,0 +1,9 @@
+.sign-up {
+  background-color: var(--romance);
+  display: flex;
+  height: 100vh;
+  min-height: 960px;
+  min-width: 1728px;
+  width: 100%;
+}
+

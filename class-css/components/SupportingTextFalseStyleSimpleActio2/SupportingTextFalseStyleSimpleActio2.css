@@ -1,0 +1,56 @@
+.card-header-1,
+.card-header-2,
+.card-header-3 {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 80px;
+  width: 1216px;
+}
+
+.content-110,
+.content-111,
+.content-112 {
+  display: flex;
+  height: 79px;
+  width: 1216px;
+}
+
+.text-and-badge-1,
+.text-and-badge-2,
+.text-and-badge-3 {
+  display: flex;
+  margin-left: 24px;
+  margin-top: 26px;
+  position: relative;
+  width: 840px;
+}
+
+.text-159,
+.text-160,
+.text-161 {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 99px;
+}
+
+.actions-17,
+.actions-18,
+.actions-19 {
+  display: flex;
+  height: 40px;
+  margin-left: 16px;
+  margin-top: 20px;
+  position: relative;
+  width: 312px;
+}
+
+.divider-34,
+.divider-35,
+.divider-36 {
+  background-color: var(--gallery);
+  height: 1px;
+}
+

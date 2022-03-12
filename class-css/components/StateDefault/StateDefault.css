@@ -1,0 +1,29 @@
+.button-2 {
+  border-radius: 8px;
+  display: flex;
+  height: 40px;
+  margin-left: 16px;
+  position: relative;
+  width: 117px;
+}
+
+.button-2.button-3,
+.button-2.button-9,
+.button-2.button-11 {
+  margin-left: 788px;
+}
+
+.button-2.button-4 {
+  margin-left: 12px;
+}
+
+.button-2.button-5,
+.button-2.button-7 {
+  margin-left: 230px;
+}
+
+.button-2.button-01,
+.button-2.button-6 {
+  margin-left: unset;
+}
+

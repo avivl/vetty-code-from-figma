@@ -1,0 +1,47 @@
+.menu-2 {
+  height: 24px;
+  margin-left: 8px;
+  margin-top: 8px;
+  width: 24px;
+}
+
+.menu-2.social-icon {
+  margin-left: 85px;
+  margin-top: 10px;
+}
+
+.menu-2.home {
+  margin-left: unset;
+  margin-top: -0.2px;
+}
+
+.menu-2.social-icon-1 {
+  margin-left: 88px;
+  margin-top: 10px;
+}
+
+.menu-2.us,
+.menu-2.uy,
+.menu-2.se,
+.menu-2.us-1,
+.menu-2.us-2,
+.menu-2.us-3,
+.menu-2.us-4,
+.menu-2.us-5,
+.menu-2.uy-1,
+.menu-2.se-1,
+.menu-2.us-6,
+.menu-2.us-7,
+.menu-2.us-8,
+.menu-2.us-9,
+.menu-2.us-10,
+.menu-2.uy-2,
+.menu-2.se-2,
+.menu-2.us-11,
+.menu-2.us-12,
+.menu-2.us-13,
+.menu-2.us-14 {
+  margin-left: 24px;
+  margin-top: 24px;
+}
+

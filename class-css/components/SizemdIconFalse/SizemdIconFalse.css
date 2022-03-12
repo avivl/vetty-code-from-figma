@@ -1,0 +1,36 @@
+.button-base-2 {
+  background-color: var(--royal-blue);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 117px;
+}
+
+.text-23 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 16px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.button-base-2.button-base-3,
+.button-base-2.button-base-5,
+.button-base-2.button-base-8,
+.button-base-2.button-base-10,
+.button-base-2.button-base-12 {
+  background-color: var(--mischka);
+}
+
+.button-base-2.button-base-3 .text-23,
+.button-base-2.button-base-5 .text-23,
+.button-base-2.button-base-8 .text-23,
+.button-base-2.button-base-10 .text-23,
+.button-base-2.button-base-12 .text-23 {
+  opacity: 0.5;
+}
+
